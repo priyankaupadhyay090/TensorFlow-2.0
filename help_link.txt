@@ -1,0 +1,15 @@
+Logistic regression: https://www.tensorflow.org/tutorials/estimator/linear
+
+classificiaon: https://www.tensorflow.org/tutorials/estimator/premade
+
+Hidden markov model : https://www.tensorflow.org/probability/api_docs/python/tfp/distributions/HiddenMarkovModel
+
+NN, Keras: https://www.tensorflow.org/tutorials/keras/classification
+
+CNN:  www.tensorflow.org/tutorials/images/cnn
+
+Transfer Learning with a Pretrained ConvNet: www.tensorflow.org/tutorials/images/transfer_learning
+
+Object Detection: https://github.com/tensorflow/models/tree/master/research/object_detection
+
+
