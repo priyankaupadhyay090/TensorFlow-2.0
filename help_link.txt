@@ -12,4 +12,10 @@ Transfer Learning with a Pretrained ConvNet: www.tensorflow.org/tutorials/images
 
 Object Detection: https://github.com/tensorflow/models/tree/master/research/object_detection
 
+Sentiment Analysis (Text Classification) with an RNN:  www.tensorflow.org/tutorials/text/text_classification_rnn
+
+Understanding LSTM Networks.” Understanding LSTM Networks -- Colah's Blog, https://colah.github.io/posts/2015-08-Understanding-LSTMs/.
+
+Text Generation with an RNN: www.tensorflow.org/tutorials/text/text_generation.
+
 
