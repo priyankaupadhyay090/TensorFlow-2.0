@@ -4,7 +4,7 @@
 1. Introduction to TensorFlow \
   A. tensorflow_intro.ipynb
   
-2. Core Learning Algorithms: Linear Regression, Classification, K-Means Clustering, Hidden Markow Models \
+2. Core Learning Algorithms: Linear Regression, Classification, K-Means Clustering, Hidden Markov Models \
   A. core_machine_learning_algorithms_intro.ipnb \
   B. logistic_regression_for_binary_clasification.ipynb \
   C. multiclass_classification.ipynb \
