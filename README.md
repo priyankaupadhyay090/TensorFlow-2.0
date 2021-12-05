@@ -17,5 +17,8 @@
   A. cnn_image_classification_for_cifar10_dataset.ipynb \
   B. pre_trained_cnn_image_classification_with_fine_tuning_for_small_dataset.ipynb (cats vs dogs image classification)
 
-5. Natural Language Processing with RNNs
+5. Natural Language Processing with RNNs \
+  A. NLP_intro.ipynb \
+  B. Sentiment_Analysis.ipynb
+  
 6. Reinforcement Learning with Q-Learning 
