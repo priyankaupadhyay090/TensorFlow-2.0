@@ -8,7 +8,7 @@
   A. core_machine_learning_algorithms_intro.ipnb \
   B. logistic_regression_for_binary_clasification.ipynb \
   C. multiclass_classification.ipynb \
-  D. hidden_markov_model.ipynb \
+  D. hidden_markov_model.ipynb 
     
 3. Neural Network with TensorFlow  \
   A. neural_network_with_tensorflow_for_mnist_fashion_dataset_classification.ipynb (Image classification) 
