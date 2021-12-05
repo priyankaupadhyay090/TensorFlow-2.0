@@ -20,5 +20,6 @@
 5. Natural Language Processing with RNNs \
   A. NLP_intro.ipynb \
   B. Sentiment_Analysis.ipynb
+  C. Poetry Play Generator.ipynb
   
-6. Reinforcement Learning with Q-Learning 
+
