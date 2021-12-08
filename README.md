@@ -14,8 +14,10 @@
   A. neural_network_with_tensorflow_for_mnist_fashion_dataset_classification.ipynb (Image classification) 
   
 4. Computer Vision with CNNs (Deep Neural Network/Deep Learning) \
-  A. cnn_image_classification_for_cifar10_dataset.ipynb \
-  B. pre_trained_cnn_image_classification_with_fine_tuning_for_small_dataset.ipynb (cats vs dogs image classification)
+  A. computer_vision_basic.ipynb
+  B. cnn_image_classification_for_cifar10_dataset.ipynb \
+  C. data_agumentation.ipynb
+  D. pre_trained_cnn_image_classification_with_fine_tuning_for_small_dataset.ipynb (cats vs dogs image classification)
 
 5. Natural Language Processing with RNNs \
   A. NLP_intro.ipynb \
