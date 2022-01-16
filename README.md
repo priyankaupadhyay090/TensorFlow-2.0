@@ -7,7 +7,7 @@
 2. Core Learning Algorithms: Linear Regression, Classification, K-Means Clustering, Hidden Markov Models \
   A. core_machine_learning_algorithms_intro.ipnb \
   B. logistic_regression_for_binary_clasification.ipynb \
-  C. multiclass_classification.ipynb \
+  C. multiclass_classification.ipynb for IRIS Flower dataset\
   D. hidden_markov_model.ipynb 
     
 3. Neural Network with TensorFlow  \
