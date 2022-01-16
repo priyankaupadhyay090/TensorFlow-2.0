@@ -1,8 +1,11 @@
 # TensorFlow-2.0
+```ruby
+Course 1: Neural Network and Deep Learning
+```
 
-''' ruby
+```ruby
 1. Introduction to TensorFlow 
-'''
+```
   A. tensorflow_intro.ipynb
   
 2. Core Learning Algorithms: Linear Regression, Classification, K-Means Clustering, Hidden Markov Models \
