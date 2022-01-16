@@ -1,7 +1,8 @@
 # TensorFlow-2.0
 
-
-1. Introduction to TensorFlow \
+'''
+1. Introduction to TensorFlow 
+'''
   A. tensorflow_intro.ipynb
   
 2. Core Learning Algorithms: Linear Regression, Classification, K-Means Clustering, Hidden Markov Models \
